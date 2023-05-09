@@ -1,0 +1,53 @@
+country,city,airport,IATA_code,passengers_19,total_passengers_19,destinations_19,co2_scope_1_19,co2_scope_2_19,co2_scope_3_19,passengers_20,total_passengers_20,destinations_20,co2_scope1_20,co2_scope2_20,co2_scope3_20,passengers_21,total_passengers_21,destinations_21,co2_scope1_21,co2_scope2_21,co2_scope3_21,longitude,latitude,,source,,,,
+Switzerland,Bern,Bern Airport,BRN,0.029859,0.035787,5,12632,,,0.011141,0.016183,4,,,,0.017805,0.023827,12,,,,7.499167,46.912222,,"annual report 2021, 2019
+CO2 scopes 1+2 by ChatGPT",,,,
+Switzerland,Genève,Genève Aéroport,GVA,17.755766,17.926625,149,7051,,215970,5.585275,5.600894,147,,,,5.90044,5.923035,137,,,,6.1090888,46.2369794,,"annual report 2019
+2020
+2021",,,,
+Switzerland,Zürich,Zürich Airport,ZRH,,31.507692,,26218,1632,4230902,8.299177,8.341047,,26284,1212,1544551,10,10.234428,177,32632,19,1641745,8.5534976,47.4612352,,"annual report 2019, 2021
+report
+co2 emissions
+co2 for 2019",,,,
+France,Saint-Louise,EuroAirport Basel-Mulhouse-Freiburg,BSL ,9.086627,9.090312,113,24700,,,2.59678,2.59898,96,,,,3.617434,3.620147,96,,,,7.5258988,47.597286,,"annual report 2019
+annual report 2021
+annaul report 2022
+CO2 scopes 1+2 by ChatGPT",,,,
+France,Paris,Paris Charles de Gaulle Airport,CDG,76.2,,328,39382,2085,1529259,22.3,,,40937,547,596132,26.2,,251*,52939,12006,7'052'969,2.5507715,49.0078597,,"
+https://www.parisaeroport.fr/en/group/strategy/airport-network/paris-charles-de-gaulle-airport#:~:text=The%20main%20airlines%20operating%20from,Gaulle%20airport%20serve%20325%20cities.
+Traffic data 
+Orly countries served
+CO2 emissions 2019 paris
+CO2 emissions 2021 paris
+CO2 emissions 2020 paris
+Destinations Paris, no date","For 2021, data for co2 only available for Paris Aeroports (CDG + ORLY combined); a ratio of the 2019 emissions of CDG to ORLY was used and applied to 2021 to split the data between the two airports for each scope respectively 
+
+Ex. 2019 scope 1, CDG airport represented 0.845071027%  of CDG + ORLY SCOPE 1emissions --> apply that to scope 1 emissions for 2021, etc. 
+2019 scope 2 CDG --> 0.9320518552 of CDG+ORY SCOPE 2
+2019 scope 3 CDG --> 0.7665132062 of CDG+ORY SCOPE 3
+
+Destinations 2021 based on current website, don't know date. Ratio for most recent unknown, used the one of 2019 which is known",,,
+France,Paris,Paris-Orly Airport,ORY,31.9,,128,7220,152,465826,10.8,,,7187,180,168457,15.7,,97.95*,9706,875,2'148'397,2.3652422,48.7262321,,,,,,
+Germany,Frankfurt,Frankfurt airport,FRA,,,,,,,,,,,,,,,,,,,8.562158,50.0380192,,,,,,
+Germany,Munich,Munich International Airport,MUC,,,,,,,,,,,,,,,,,,,11.7764347,48.3509684,,,,,,
+Germany,Düsseldorf,Düsseldorf Airport ,DUS,25.5,25.5,200,24517.9,15027.1,168580,6.6,6.6,,13.416,8.221,92.246,7.95,7.95,,"13.833,93","15.903,30","129.342,97",6.7667912,51.2876146,,,2019 CO2 were computed based on other years,,,
+Germany,Hamburg,Hamburg Airport ,HAM,17.23,17.24,132,19126,34765,,4.5,4.5,92,,,,5.6,5.6,70,,,,9.997405,53.6336949,,https://www.hamburg-airport.de/de,,,,
+England,London,Heathrow Airport,LHR,,,,,,,,,,,,,,,,,,,-0.4542955,51.4700223,,,,,,
+England,London,Gatwick Airport ,LGW,46.568,,,12223,"25,443",,10.164896,,,7778,15394,,6.254549,,,10163,13024,,-0.1820629,51.1536621,,"annual report 2021, 2022",,,,
+England,Manchester,Manchester Airport,MAN,29.4,29.4,286,9008,18399,3422995,7,7,286,8719,13675,665356,6,6,193,9562,13890,1489801,-2.2772979,53.3554372,,https://www.magairports.com/our-expertise/business-and-general-aviation/,,,,
+Netherlands,Amsterdam,Amsterdam Airport Schiphol,AMS,71.7,72.2,332,21183,69766,936426,20.9,21,259,12162,74768,686767,25.490824,25.590824,215,14720,73950,,4.7682744,52.3105386,,"ChatGPT+statista
+scopes
+traffic",,,,
+Italy,Lazio,Leonardo da Vinci International Airport,FCO,42.9,49.4,250,343900,,,9.7,10.8,165,,,,15.9,16.8,178,,,,12.2518928,41.8034274,,ChatGPT,,,,
+Italy,Milan,Malpensa Airport,MXP,28.7,28.7,173,122172,809,1079163,7.2,7.2,173,107830,335,259426,9.6,9.6,173,124644,690,461749,8.7255307,45.6300625,,https://seamilano.eu/sites/default/files/2023-05/SEA-AnnualReport2022-ENG.pdf,passengers in 2022 went up again. 2021 still strongly impacted by COVID,,,
+Italy,Rome,Rome Ciampino Airport,CIA,5.01,5.12,38,6235,1381,,1.31,1.33,27,,,,2.7,2.8,27,,,,12.5928835,41.7991192,,https://www.adr.it/ciampino,,,,
+Spain,Barcelona,Barcelona–El Prat Airport,BCN,52.7,,190,214868,,,9.1,,111,,,,15.5,,121,,,,2.096263,41.3225846,,"ChatGPT
+CO2 scopes 1+2 by ChatGPT",,,,
+Spain,Madrid,Adolfo Suárez Madrid–Barajas Airport,MAD,61.8,,210,22770,113861,,17.1,,119,,,,26.7,,138,,,,-3.5642764,40.4895147,,"ChatGPT
+scopes19
+",,,,
+Ireland,Dublin,Dublin Airport,DUB,,32.9,,,,387853,7.26,,,,,,8.6,,,,21768,,-6.2570042,53.4268984,,https://en.wikipedia.org/wiki/Dublin_Airport,there's numbers for 2022,https://www.dublinairport.com/latest-news/2023/01/15/dublin-airport-welcomed-28.1-million-passengers-in-2022,https://dublinairport.org/statistics/,https://www.dublinairport.com/docs/default-source/sustainability-reports/dublin-airport-carbon-reduction-strategy.pdf?sfvrsn=96ad40d1_6
+Denmark,Copenhagen,Copenhagen Airport,CPH,,30.25,,,,,,,,,,,,9.1,,,,,12.6477386,55.612117,,"https://www.cph.dk/en/about-cph/investor/traffic-statistics/2023/01/ny%20sidecph%2022.1%20million%20passengers%20passed%20through%20the%20airport%20in%202022#:~:text=The%20winter%20months%20are%20traditionally,9.1%20million%20to%2022.1%20million.",there's numbers for 2022,certified climate neutral,"https://www.cph.dk/en/about-cph/press/news/2019/3/new-climate-strategy-copenhagen-airport-to-be-co2-neutral-this-year#:~:text=That%20amounts%20to%2083%2C000%20passengers,of%20CO2%20per%20passenger.",
+Austria,Schwechat ,Vienna International Airport,VIE,,,,,,,,,,,,,,10.4,,31492.08,,174956,16.5755139,48.1126125,,"https://www.viennaairport.com/en/company/flughafen_wien_ag/fwag_group_facts__figures_#:~:text=At%20the%20Vienna%20site%2C%20Vienna,than%20in%20the%20previous%20year.",,"https://www.viennaairport.com/en/company/flughafen_wien_ag/environment__sustainability/environmental_protection_1#:~:text=The%20total%20CO2%20emissions%20in,per%20cent%20of%20total%20emissions.",,
+Belgium,Brussels,Brussels Airport,BRU,,26.36,,,,,,,,,,,,9.31,,19940,,,4.4859439,50.90024,,"https://www.brusselsairport.be/en/pressroom/news/19-million-passengers-at-brussels-airport-in-2022#:~:text=View%20all%20products-,19%20million%20passengers%20at%20Brussels%20Airport%20in%202022%2C%20twice%20as,776%2C000%20tonnes%20of%20cargo%20transported",There's also numbers for 2022,https://www.brusselsairport.be/en/sustainability/key-figures,,
+Norway,Oslo,Oslo Gardermoen Airport,OSL,28.51,28.56,170,3176,39991,114254,9.1,9.13,128,,,,8,8.03,135,,,,11.0962177,60.1978869,,"https://www.statista.com/statistics/797383/number-of-terminal-passengers-at-oslo-airport-in-norway/#:~:text=From%202009%20to%202019%2C%20the,million%20to%20over%2028.5%20million.",https://avinor.no/en/corporate/airport/oslo/about-us/about-oslo-airport/tall-og-fakta,,,
+Poland,Warsaw,Warsaw Chopin Airport,WAW,18.9,19,136,10090,,,5.72,5.76,80,,,,5.5,5.5,116,,,,20.9691818,52.1648612,,https://www.lotnisko-chopina.pl/,,,,
