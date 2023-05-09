@@ -12,7 +12,7 @@ France,Saint-Louise,EuroAirport Basel-Mulhouse-Freiburg,BSL ,9.087,9.090,113,,,,
 annual report 2021
 annaul report 2022
 CO2 scopes 1+2 by ChatGPT",,,,
-France,Paris,Paris Charles de Gaulle Airport,CDG,76.200,,328,24700,24700,1529259,22.30,,,40937,547,596132,26.20,,251*,52939,12006,7052969,2.5507715,49.0078597,,"
+France,Paris,Paris Charles de Gaulle Airport,CDG,76.200,,328,24700,24700,1529259,22.30,,,40937,547,596132,26.20,,251,52939,12006,7052969,2.5507715,49.0078597,,"
 https://www.parisaeroport.fr/en/group/strategy/airport-network/paris-charles-de-gaulle-airport#:~:text=The%20main%20airlines%20operating%20from,Gaulle%20airport%20serve%20325%20cities.
 Traffic data 
 Orly countries served
@@ -26,7 +26,7 @@ Ex. 2019 scope 1, CDG airport represented 0.845071027%  of CDG + ORLY SCOPE 1emi
 2019 scope 3 CDG --> 0.7665132062 of CDG+ORY SCOPE 3
 
 Destinations 2021 based on current website, don't know date. Ratio for most recent unknown, used the one of 2019 which is known",,,
-France,Paris,Paris-Orly Airport,ORY,31.900,,128,7220,152,465826,10.80,,,7187,180,168457,15.70,,97.95*,9706,875,2148397,2.3652422,48.7262321,,,,,,
+France,Paris,Paris-Orly Airport,ORY,31.900,,128,7220,152,465826,10.80,,,7187,180,168457,15.70,,98,9706,875,2148397,2.3652422,48.7262321,,,,,,
 Germany,Frankfurt,Frankfurt airport,FRA,,,,,,,,,,,,,,,,,,,8.562158,50.0380192,,,,,,
 Germany,Munich,Munich International Airport,MUC,,,,,,,,,,,,,,,,,,,11.7764347,48.3509684,,,,,,
 Germany,Düsseldorf,Düsseldorf Airport ,DUS,25.500,25.500,200,24518,15027,168580,6.60,6.60,,13,8,92,7.95,7.95,,13834,15903,129343,6.7667912,51.2876146,,,2019 CO2 were computed based on other years,,,
