@@ -1,4 +1,4 @@
-country,city,airport,IATA_code,passengers_19,total_passengers_19,destinations_19,co2_scope_1_19,co2_scope_2_19,co2_scope_3_19,passengers_20,total_passengers_20,destinations_20,co2_scope1_20,co2_scope2_20,co2_scope3_20,passengers_21,total_passengers_21,destinations_21,co2_scope1_21,co2_scope2_21,co2_scope3_21,longitude,latitude,,source,,,,
+country,city,airport,IATA_code,passengers_19,total_passengers_19,destinations_19,co2_scope_1_19,co2_scope_2_19,co2_scope_3_19,passengers_20,total_passengers_20,destinations_20,co2_scope1_20,co2_scope2_20,co2_scope3_20,passengers_21,total_passengers_21,destinations_21,co2_scope1_21,co2_scope2_21,co2_scope3_21,longitude,latitude,,source,comment,,,
 Switzerland,Bern,Bern Airport,BRN,0.030,0.036,5,12632,12632,,0.01,0.02,4,,,,0.02,0.02,12,,,,7.499167,46.912222,,"annual report 2021, 2019
 CO2 scopes 1+2 by ChatGPT",,,,
 Switzerland,Genève,Genève Aéroport,GVA,17.756,17.927,149,7051,7051,215970,5.59,5.60,147,,,,5.90,5.92,137,,,,6.1090888,46.2369794,,"annual report 2019
