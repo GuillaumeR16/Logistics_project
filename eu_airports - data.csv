@@ -4,7 +4,7 @@ CO2 scopes 1+2 by ChatGPT",,,,
 Switzerland,Genève,Genève Aéroport,GVA,17.755766,17.926625,149,7051,"7,051",215970,5.585275,5.600894,147,,,,5.90044,5.923035,137,,,,6.1090888,46.2369794,,"annual report 2019
 2020
 2021",,,,
-Switzerland,Zürich,Zürich Airport,ZRH,,31.507692,,26218,"1,632",4230902,8.299177,8.341047,,26284,1212,1544551,10,10.234428,177,"32,632",19,"1,641,745",8.5534976,47.4612352,,"annual report 2019, 2021
+Switzerland,Zürich,Zürich Airport,ZRH,,31.507692,,26218,"1,632",4230902,8.299177,8.341047,,26284,1212,1544551,10,10.234428,177,32632,19,"1,641,745",8.5534976,47.4612352,,"annual report 2019, 2021
 report
 co2 emissions
 co2 for 2019",,,,
@@ -12,7 +12,7 @@ France,Saint-Louise,EuroAirport Basel-Mulhouse-Freiburg,BSL ,9.086627,9.090312,1
 annual report 2021
 annaul report 2022
 CO2 scopes 1+2 by ChatGPT",,,,
-France,Paris,Paris Charles de Gaulle Airport,CDG,76.2,,328,24700,"24,700",1529259,22.3,,,40937,547,596132,26.2,,251*,"52,939","12,006",7'052'969,2.5507715,49.0078597,,"
+France,Paris,Paris Charles de Gaulle Airport,CDG,76.2,,328,24700,"24,700",1529259,22.3,,,40937,547,596132,26.2,,251*,"52,939","12,006","7,052,969",2.5507715,49.0078597,,"
 https://www.parisaeroport.fr/en/group/strategy/airport-network/paris-charles-de-gaulle-airport#:~:text=The%20main%20airlines%20operating%20from,Gaulle%20airport%20serve%20325%20cities.
 Traffic data 
 Orly countries served
@@ -26,7 +26,7 @@ Ex. 2019 scope 1, CDG airport represented 0.845071027%  of CDG + ORLY SCOPE 1emi
 2019 scope 3 CDG --> 0.7665132062 of CDG+ORY SCOPE 3
 
 Destinations 2021 based on current website, don't know date. Ratio for most recent unknown, used the one of 2019 which is known",,,
-France,Paris,Paris-Orly Airport,ORY,31.9,,128,7220,152,465826,10.8,,,7187,180,168457,15.7,,97.95*,"9,706",875,2'148'397,2.3652422,48.7262321,,,,,,
+France,Paris,Paris-Orly Airport,ORY,31.9,,128,7220,152,465826,10.8,,,7187,180,168457,15.7,,97.95*,"9,706",875,"2,148,397.00",2.3652422,48.7262321,,,,,,
 Germany,Frankfurt,Frankfurt airport,FRA,,,,,,,,,,,,,,,,,,,8.562158,50.0380192,,,,,,
 Germany,Munich,Munich International Airport,MUC,,,,,,,,,,,,,,,,,,,11.7764347,48.3509684,,,,,,
 Germany,Düsseldorf,Düsseldorf Airport ,DUS,25.5,25.5,200,24517.9,"15,027",168580,6.6,6.6,,13.416,8.221,92.246,7.95,7.95,,"13.833,93","15.903,30","129.342,97",6.7667912,51.2876146,,,2019 CO2 were computed based on other years,,,
