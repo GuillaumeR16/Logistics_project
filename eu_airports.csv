@@ -8,10 +8,10 @@ Switzerland,Zürich,Zürich Airport,ZRH,31.508,,160,242717,26218,1632,4230902,8.
 report
 co2 emissions
 co2 for 2019",destinations - ChatGPT,,,,
-France,Saint-Louise,EuroAirport Basel-Mulhouse-Freiburg,BSL ,9.087,,113,81500,3998,7545,24463,2.60,,96,32600,,,,3.62,,96,40900,,,,7.5258988,47.597286,,"annual report 2019
+France,Saint-Louise,EuroAirport Basel-Mulhouse-Freiburg,BSL ,9.087,,113,81500,5404,1481,877256,2.60,,96,32600,,,,3.62,,96,40900,,,,7.5258988,47.597286,,"annual report 2019
 annual report 2021
 annaul report 2022
-CO2 scopes 1+2 by ChatGPT",scopes - ChatGPT,,,,
+CO2 scopes 1+2 by ChatGPT",scopes - Based on other swiss airports,,,,
 France,Paris,Paris Charles de Gaulle Airport,CDG,76.200,,328,498000,39382,2085,1529259,22.30,,,,40937,547,596132,26.20,,251,,52939,12006,7052969,2.5507715,49.0078597,,"
 https://www.parisaeroport.fr/en/group/strategy/airport-network/paris-charles-de-gaulle-airport#:~:text=The%20main%20airlines%20operating%20from,Gaulle%20airport%20serve%20325%20cities.
 Traffic data 
@@ -56,7 +56,7 @@ Germany,Berlin,Berlin Brandenburg Airport,BER,35.645,,140,277570,59122,8383,9837
 scopes are based on Munich data",,,,
 England,London,Heathrow Airport,LHR,80.900,,206,480000,26515,283229,2035688,,,,,,,,,,,,,,,-0.4542955,51.4700223,,"https://www.heathrow.com/content/dam/heathrow/web/common/documents/company/heathrow-2-0-sustainability/futher-reading/Sustainability-Report-2019.pdf
 https://www.heathrow.com/content/dam/heathrow/web/common/documents/company/heathrow-2-0-sustainability/futher-reading/Heathrow-Airport-Travel-Report-2019.pdf",,,,,
-England,London,Gatwick Airport ,LGW,46.568,,124,280700,12223,25443,67446,10.16,,,76500,7778,15394,,6.25,,,52100,10163,13024,,-0.1820629,51.1536621,,"annual report 2021, 2022","destinations, scope3 - ChatGPT",,,,
+England,London,Gatwick Airport ,LGW,46.568,,124,280700,12223,25443,696628,10.16,,,76500,7778,15394,,6.25,,,52100,10163,13024,,-0.1820629,51.1536621,,"annual report 2021, 2022",,,,,
 England,Manchester,Manchester Airport,MAN,29.400,29.400,286,194159,9008,18399,3422995,7.00,7.00,286,60728,8719,13675,665356,6.00,6.00,193,59345,9562,13890,1489801,-2.2772979,53.3554372,,https://www.magairports.com/our-expertise/business-and-general-aviation/,,,,,
 Netherlands,Amsterdam,Amsterdam Airport Schiphol,AMS,71.700,,332,38425,21183,69766,936426,20.90,,259,15902,12162,74768,686767,25.49,,215,30225,14720,73950,,4.7682744,52.3105386,,"ChatGPT+statista
 scopes
